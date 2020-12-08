@@ -1,0 +1,1 @@
+web: vendor/bin/hero-php-nginx public/
